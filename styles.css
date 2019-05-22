@@ -1,0 +1,20 @@
+body{
+	text-align:center;
+	font-family:arial;
+	color:#B141C9;
+}
+img{
+	margin: 50px 100px;
+	image-resolution:fixed;
+}
+#title{
+	font-size:50px;
+	position:relative;
+	bottom:-50px;
+}
+p{
+	text-align:right;
+	position:relative;
+	margin-right:440px;
+	top:-50px;
+}
